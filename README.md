@@ -3,7 +3,8 @@
 An repo that describes the Zing iOS commerical product. Application allows Booking Agents and Promoters to connect with each other, and additionally create, negotiate and finalize event bookings.
  Note: This repo ONLY contains a ReadMe description. The original codebase is in a Private Repo belonging to Zing.
 
-## Screen Recording
+## Screen Shots
+<img src="http://i.imgur.com/F8dnRT6.png" title="source: imgur.com" /><img src="http://i.imgur.com/1lreKkR.png" title="source: imgur.com" />
 
 ## User Stories
  - Users can authenticate with backend API
