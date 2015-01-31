@@ -4,7 +4,7 @@ An repo that describes the Zing iOS commerical product. Application allows Booki
  Note: This repo ONLY contains a ReadMe description. The original codebase is in a Private Repo belonging to Zing.
 
 ## Screen Shots
-<img src="http://i.imgur.com/F8dnRT6.png" title="source: imgur.com" /><img src="http://i.imgur.com/1lreKkR.png" title="source: imgur.com" />
+<table><tr><td width="50%"><img src="http://i.imgur.com/F8dnRT6.png" title="source: imgur.com" /></td><td width=50%><img src="http://i.imgur.com/1lreKkR.png" title="source: imgur.com" /></td></tr></table>
 
 ## User Stories
  - Users can authenticate with backend API
