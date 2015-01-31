@@ -15,7 +15,9 @@ An repo that describes the Zing iOS commerical product. Application allows Booki
  - Users recieve Push notifications with new proposals and messages
 
 ## Libraries and Implementations
- - 
+ - AFNetworking
+ - SDWebImage
+ - ZUUIReveal (Underslide Menu)
 
 ## Build & Test
  - Project can be cloned and built with Xcode v6.1.1.
